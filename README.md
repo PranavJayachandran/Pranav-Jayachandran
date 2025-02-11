@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Jayachandran</h1>
-<h3 align="center">Randomly curious person who finds software engineering interesting. A developer who aims to be tech agnostic and does competitive programming on the side.</h3>
+<h3 align="center">Randomly curious person who finds software engineering interesting. A developer who does competitive programming on the side.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
